@@ -18,4 +18,4 @@ In this task I have designed a Digital FIR(Finite Impulse Response) Filter using
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/1ecc8e95-7d1e-4da9-b722-2dfd3553318c)[](url)
+![Image](https://github.com/user-attachments/assets/1ecc8e95-7d1e-4da9-b722-2dfd3553318c)
